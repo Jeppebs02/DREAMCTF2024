@@ -1,0 +1,22 @@
+Title: Coffee beans
+Category: misc
+Time to solve: 5-10 minutes
+Difficulty: easy
+Author: Jeppebs02
+
+I was talking to a friend of mine about coffee, I really like Java coffee, he's more of an arabica guy.
+He also refers to coffee beans as coffee SEEDS. Weird.
+
+Anyway...
+
+Your task is to give me the next five numbers in this randomly generated sequence: 
+
+536, 927, 658, 121, 148, 801, 889, 714, 218, 182
+
+flag format: DREAM24{num1_num2_num3_num4_num5}
+
+if the next five numbers were as follows: 123, 332, 39, 679, 90
+
+the flag would then be DREAM24{123_332_39_679_90}
+
+See you after my coffee break!
